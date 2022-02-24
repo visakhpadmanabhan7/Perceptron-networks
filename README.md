@@ -3,4 +3,4 @@
 
 Learning rate= 0.2 and iterations=2 , activation fucntion -sigmoid
 
-Run using python3 perceptron.py --data Gauss3.csv --eta 0.2 --iterations 2
+      Run using python3 perceptron.py --data Gauss3.csv --eta 0.2 --iterations 2
